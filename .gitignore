@@ -3,3 +3,8 @@
 *.pyc
 *.git
 generated
+
+**/vcs.xml
+**/misc.xml
+**/modules.xml
+**/workspace.xml
