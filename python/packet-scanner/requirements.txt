@@ -1,0 +1,6 @@
+# Author: John-Philipp Drews
+# Credits: John-Philipp Drews
+# Email: john.philipp@silolytics.com
+# Created: 2024-07-02
+scapy==2.5.0
+PyYAML~=5.4.1
