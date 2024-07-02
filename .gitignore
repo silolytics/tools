@@ -8,3 +8,5 @@ generated
 **/misc.xml
 **/modules.xml
 **/workspace.xml
+
+.pytest_cache
